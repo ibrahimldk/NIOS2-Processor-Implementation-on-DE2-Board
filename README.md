@@ -9,3 +9,7 @@ c- instruction memory
 d- register file
 e- fetch unit
 f - arithmetic logic unit ALU
+For simulation purposes we have used the following tools
+Quartus II
+modelsim
+
